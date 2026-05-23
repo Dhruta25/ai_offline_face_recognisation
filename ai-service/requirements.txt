@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+scipy
+tensorflow
+tensorflow-lite
+scikit-learn
+matplotlib
+pillow
